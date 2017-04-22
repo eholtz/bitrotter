@@ -20,3 +20,6 @@ gcc -o bitrotter ./bitrotter.c
 You obviously need access to the drive. Also it would be good to have a backup...
 
 I used this to create damaged xfs filesystems.
+
+# keywords
+disk rot, data corruption, data rot, data decay, data degradation, system failure
